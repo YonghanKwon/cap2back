@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'cap2_test',
-        'USER':'root',
-        'PASSWORD':'kwonyh0315@@',
+        'USER':'sgkevinlee@naver.com',
+        'PASSWORD':'W9azn8ql5^^',
         'HOST':'127.0.0.1',
         'PORT':'3306',
     }
