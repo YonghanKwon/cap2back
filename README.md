@@ -1,3 +1,3 @@
-cd srv/cap~/cap~;
+cd srv/cap~/cap~
 
-python3 manage.py runserver 0:8000;
+python3 manage.py runserver 0:8000
